@@ -1,1 +1,1 @@
-# lpailpai.gitub.io
+# lpailpai.github.io
